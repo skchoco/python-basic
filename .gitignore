@@ -12,6 +12,7 @@ dogs-vs-cats/
 NYT-comments/
 model/
 googlemapskey.txt
+*.db
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
